@@ -1,0 +1,11 @@
+Métrica,Modelo 1 (Random Forest + TF-IDF),Modelo 2 (Red Neuronal + Embeddings)
+Accuracy,0.9468,0.9611
+Precision,0.9886,0.9659
+Recall,0.9039,0.9558
+F1,0.9444,0.9608
+ROC AUC,0.9829,0.9837
+CV Accuracy,0.9355,0.9572
+CV Precision,0.9839,0.9687
+CV Recall,0.8856,0.9456
+CV F1,0.9317,0.9566
+CV ROC AUC,0.9849,0.9885
